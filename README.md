@@ -4,3 +4,4 @@
 STOCK MARKET ANALYSER CODING NINJAS
 
  
+![plants website](/stock.png)
